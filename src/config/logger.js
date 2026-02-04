@@ -6,6 +6,7 @@ const levels = {
     info: 2,
     http: 3,
     debug: 4,
+    run: 5,
 };
 
 const level = () => {
